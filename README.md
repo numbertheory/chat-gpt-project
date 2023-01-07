@@ -12,6 +12,7 @@ These are the prompts I used to generate the code for this project.
 4. Create a JSON file of the doll answers that you provided. [Answer](answers/answer4.md)
 5. How would I make the script know if a question had been asked? [Answer](answers/answer5.md)
 6. Create some new responses for the demon doll to provide when a question is posed. The answers should be creepy and some of them should reference hell, Satan, or the Apocalypse. [Answer](answers/answer6.md)
+7. Structure your previous response in a JSON format [Answer](answers/answer7.md)
 
 The raw answers to these prompts will be listed in the [answers/](answers/) folder in this repo.
 
