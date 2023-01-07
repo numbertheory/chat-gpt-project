@@ -36,17 +36,10 @@ pip install -r requirements.txt
 ```
 
 For `nltk`, you'll need to download some additional content, not part of the package. 
-Run the python IDE, (in the same virtual environment you installed the requirements).
+Run this command to download the current version (in the same virtual environment you installed the requirements):
 
 ```
-python3
-```
-Then, run these commands:
-
-```
->>> import nltk
->>> nltk.download('averaged_perceptron_tagger')
->>> nltk.download('punkt')
+python3 -c "import nltk; nltk.download('averaged_perceptron_tagger'); nltk.download('punkt')"
 ```
 
 Finally, run the script and chat with Annabelle:
