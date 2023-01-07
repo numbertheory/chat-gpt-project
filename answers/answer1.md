@@ -1,4 +1,7 @@
-Prompt: Create a python program where I can chat with a demonic doll.
+## Prompt
+Create a python program where I can chat with a demonic doll.
+
+## Answer
 
 Sure! Here is a basic example of a Python program that allows you to chat with a demonic doll. This program uses the input function to get user input, and the print function to display the doll's responses.
 

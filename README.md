@@ -8,6 +8,8 @@ These are the prompts I used to generate the code for this project.
 
 1. Create a python program where I can chat with a demonic doll.
 2. What are some reactions that a demonic doll would have when chatting with a human?
+3. Make a python function which returns a random choice from a list of strings.
+4. Create a JSON file of the doll answers that you provided.
 
 The raw answers to these prompts will be listed in the [answers/](answers/) folder in this repo.
 

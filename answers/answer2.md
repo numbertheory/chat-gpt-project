@@ -1,5 +1,7 @@
-Prompt: What are some reactions that a demonic doll would have when chatting with a human?
+## Prompt
+What are some reactions that a demonic doll would have when chatting with a human?
 
+## Answer
 There are many ways that a demonic doll could react when chatting with a human. Here are a few ideas:
 
 The doll could repeat what the human says, either verbatim or with slight variations.
