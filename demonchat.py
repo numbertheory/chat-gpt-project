@@ -35,7 +35,7 @@ def choose_random_string(message):
     # a bit more efficient in handling the data and not
     # requiring the script to provide the list.
     # Get the list of responses
-    # Human fix: This if/then logic and structure of the 
+    # Human fix: This if/then logic and structure of the
     # doll_responses file is human intervention.
     if is_question(message):
         responses = data['questions']
