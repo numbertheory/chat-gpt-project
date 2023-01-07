@@ -1,6 +1,8 @@
 ## Prompt
 
 Structure your previous response in a JSON format
+
+## Answer
 Certainly! Here is the list of responses in JSON format:
 
 ```json
